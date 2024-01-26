@@ -1,4 +1,6 @@
 # CIS550-Final-Project-Group108
+Tianyi Wei, Meiru Han, Pu Tan, Yuan Zhuang 
+
 We want to build an interface that allows users to look for books they may be interested in based on
 author, genre, publisher, publish year, and/or ratings. Users will also be able to read some reviews
 about the books. We intend to build this website as a navigation tool for book lovers to explore more
